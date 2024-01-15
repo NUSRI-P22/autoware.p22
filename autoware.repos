@@ -93,9 +93,11 @@ repositories:
     url: https://github.com/RobotecAI/awsim_sensor_kit_launch.git
     version: main
   # vehicle
-  vehicle/sample_vehicle_launch:
+  vehicle/vehicle_launch.p22:
+  # vehicle/sample_vehicle_launch:
     type: git
-    url: https://github.com/autowarefoundation/sample_vehicle_launch.git
+    url: https://github.com/NUSRI-P22/vehicle_launch.p22.git
+  #   url: https://github.com/autowarefoundation/sample_vehicle_launch.git
     version: main
   vehicle/external/pacmod_interface:
     type: git
