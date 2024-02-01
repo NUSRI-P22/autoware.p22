@@ -61,10 +61,10 @@ repositories:
     type: git
     url: https://github.com/MapIV/llh_converter.git
     version: ros2
-  # launcher
-  launcher/autoware_launch:
+  # launcher for p22
+  launcher/autoware_launch.p22:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
+    url: https://github.com/NUSRI-P22/autoware_launch.p22.git
     version: main
   # sensor_component
   sensor_component/external/sensor_component_description:
