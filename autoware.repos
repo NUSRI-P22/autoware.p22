@@ -71,9 +71,9 @@ repositories:
     type: git
     url: https://github.com/tier4/sensor_component_description.git
     version: main
-  sensor_component/external/tamagawa_imu_driver:
+  sensor_component/external/gyro_odometry:
     type: git
-    url: https://github.com/tier4/tamagawa_imu_driver.git
+    url: https://github.com/NUSRI-P22/gyro_odometry.git
     version: ros2
   # sensor_component/external/nebula:
   #   type: git
