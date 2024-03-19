@@ -79,6 +79,10 @@ repositories:
     type: git
     url: https://github.com/NUSRI-P22/gyro_odometry.git
     version: main
+  sensor_component/external/p22_radar:
+    type: git
+    url: https://github.com/NUSRI-P22/p22_radar.git
+    version: main
   # sensor_component/external/nebula:
   #   type: git
   #   url: https://github.com/tier4/nebula.git
