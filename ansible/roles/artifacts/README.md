@@ -9,12 +9,6 @@ The artifacts files are stored in a common location, hosted by Web.Auto
 Any tool that can download files from the web (e.g. `wget` or `curl`) is the only requirement for downloading these files:
 
 ```console
-# yabloc_pose_initializer
-
-$ mkdir -p ~/autoware_data/yabloc_pose_initializer/
-$ wget -P ~/autoware_data/yabloc_pose_initializer/ \
-       https://s3.ap-northeast-2.wasabisys.com/pinto-model-zoo/136_road-segmentation-adas-0001/resources.tar.gz
-
 
 # image_projection_based_fusion
 
